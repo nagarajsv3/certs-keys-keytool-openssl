@@ -1,0 +1,8 @@
+Difference between jks and pkcs12
+https://askinglot.com/what-is-the-difference-between-jks-and-pkcs12
+
+Difference between keystore and truststore
+https://askinglot.com/open-detail/502781
+
+Security
+https://www.baeldung.com/category/security-2/#
